@@ -1,6 +1,6 @@
 {
   "headers": {
-    "/.well-known/appspecific/com.tesla.3p.public-key.pem": {
+    "/.well-known/appspecific/com.tesla.3p.public-key.pe": {
       "Content-Type": "application/x-pem-file",
       "Content-Disposition": "inline"
     }
